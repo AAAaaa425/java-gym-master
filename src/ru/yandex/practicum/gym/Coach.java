@@ -2,6 +2,7 @@ package ru.yandex.practicum.gym;
 
 import java.util.Objects;
 
+// проверка
 public class Coach {
 
     //фамилия

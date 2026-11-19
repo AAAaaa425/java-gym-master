@@ -1,5 +1,6 @@
 package ru.yandex.practicum.gym;
 
+// проверка
 public class TrainingSession {
 
     //группа
